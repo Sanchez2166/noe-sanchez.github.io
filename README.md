@@ -7,3 +7,5 @@ This term I am taking CIT 281.
 - [Project 1](https://github.com/UO-CIT/project-1-noe-sanchez)
 - [Project 2](https://github.com/UO-CIT/project-2-noe-sanchez)
 - [Project 3](https://github.com/UO-CIT/project-3-noe-sanchez)
+- [Project 4](https://github.com/UO-CIT/project-4-noe-sanchez)
+- [Project 5](https://github.com/UO-CIT/project-5-noe-sanchez)
